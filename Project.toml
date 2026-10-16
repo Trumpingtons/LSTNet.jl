@@ -1,6 +1,6 @@
 name = "LSTNet"
 uuid = "9e69d846-84d9-4109-af34-4ac6c9d778dd"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Antonio Saragga Seabra"]
 
 [deps]
@@ -19,7 +19,7 @@ Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
 
 [compat]
 Enzyme = "0.13.216"
-Functors = "0.5.3"
+Functors = "0.5.4"
 LinearAlgebra = "1.13.0"
 Lux = "1.31.4"
 MLDataDevices = "1.17.10"

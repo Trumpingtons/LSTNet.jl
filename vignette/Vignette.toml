@@ -1,0 +1,15 @@
+# The vignette of LSTNet.jl, written by Pollis (Compose > New Methods > Package and Publish) and shown in
+# Help > Documentation > Vignettes once the package is installed.
+
+article = "https://arxiv.org/pdf/1703.07015"
+author = "Antonio Saragga Seabra"
+citation = "Lai, G., Chang, W.-C., Yang, Y. and Liu, H. (2018). Modeling long- and short-term temporal patterns with deep neural networks. In SIGIR '18: The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval, 95-104."
+description = "Multivariate time series forecasting with LSTNet-Skip (Lai, Chang, Yang and Liu 2018): a convolution, a GRU, a recurrent-skip GRU and an autoregressive highway, translated from the authors' PyTorch code into Lux and tested against it, on any GPU or the CPU; with the evaluation of the article: the 60/20/20 split, the RSE and CORR at horizons 3, 6, 12 and 24."
+license = "MIT"
+method = "LSTNet: long- and short-term patterns in multivariate time series"
+package = "LSTNet"
+pdf = "LSTNet.pdf"
+repository = "https://github.com/Trumpingtons/LSTNet.jl"
+title = "LSTNet: long- and short-term patterns in multivariate time series"
+topic = "Time Series Forecasting"
+version = "0.2.0"

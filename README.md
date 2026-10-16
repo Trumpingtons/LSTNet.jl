@@ -22,6 +22,10 @@ table2(exchange, "exchange")  # LSTNet-Skip's columns of the article's Table 2: 
 
 [LSTNet: long- and short-term patterns in multivariate time series](vignette/LSTNet.pdf)
 
+## License
+
+MIT (see [LICENSE](LICENSE)).
+
 ## Tests
 
 The tests compute the published tables below from their data and check every printed value, rounded to the digits printed:
