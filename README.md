@@ -20,7 +20,7 @@ table2(exchange, "exchange")  # LSTNet-Skip's columns of the article's Table 2: 
 
 ## Vignette
 
-[LSTNet: long- and short-term patterns in multivariate time series](vignette/LSTNet.pdf)
+[LSTNet: long- and short-term patterns in multivariate time series](vignette/LSTNet.tex), its LaTeX source: Pollis compiles it in Help > Documentation > Package Vignettes.
 
 ## License
 
